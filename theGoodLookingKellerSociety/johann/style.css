@@ -105,3 +105,7 @@ nav {
     flex-flow: row;
     margin: 0 20px 0 20px;
 }
+
+.social-media {
+    width: 10%;
+}
