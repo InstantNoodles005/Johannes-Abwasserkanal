@@ -1,0 +1,65 @@
+body {
+    background-color: #cdff1a;
+    font-family: "Comic Sans MS", "Comic Neue", "Chalkboard SE", "TSCu_Comic";
+}
+
+h1 {
+    color: #aa009c;
+    border: solid 25px #c60c06;
+    border-radius: 10px;
+}
+
+a {
+    color: #740000;
+    font-style: italic;
+}
+
+img {
+    margin: 25px;
+    border-radius: 10px;
+    border: solid 25px #c60c06;
+    padding: 10px;
+}
+
+summary {
+    border: solid 2px #c60c06;
+    padding: 5px;
+    margin: 5px;
+}
+
+button {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ff6ef3;
+    border: solid 2px #c60c06;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.schlelon {
+    font-size: 7px;
+}
+
+button:hover {
+    background-color: #cdff1a;
+    font-size: 22px;
+}
+
+
+figure {
+    border: solid 2px #c60c06;
+}
+
+audio {
+    background-color: #ff6ef3;
+    border: solid 2px #c60c06;
+    border-radius: 5px;
+}
+
+nav {
+    text-align: center;
+    margin: 75px 0 25px 0;
+}
