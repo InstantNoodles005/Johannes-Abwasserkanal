@@ -30,6 +30,10 @@ img {
     width: 80%;
 }
 
+details {
+    transition-duration: 0.4s;
+}
+
 summary {
     background-color: #cdff1a;
     border: solid 2px #0a122a;
