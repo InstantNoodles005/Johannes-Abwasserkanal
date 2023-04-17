@@ -1,8 +1,9 @@
 body {
-    background-color: #ffbe5b;
-    color: #1100ff;
+    background-color: #469721;
+    color: #f15710;
+    font-family: 'Comic Sans MS';
 }
 
 p {
-    font-size: smaller;
+    font-size: 5px;
 }
