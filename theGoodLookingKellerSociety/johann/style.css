@@ -1,6 +1,6 @@
 body {
     background-color: #cdff1a;
-    font-family: 'Lucida Sans' 'Gill Sans' 'Roboto';
+    font-family: 'Arial Rounded MT' 'Lucida Sans' 'Gill Sans' 'Roboto';
     color: #0a122a;
     font-size: 18px;
 
@@ -113,4 +113,8 @@ nav {
 
 .social-media {
     width: 200px;
+}
+
+.logo {
+
 }
